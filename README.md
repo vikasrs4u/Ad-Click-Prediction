@@ -18,7 +18,7 @@ Few assumptions made as a part of this project is:
 
 ### Challenges Faced:
 
-We are highly motivated to work on Ad click prediction dataset, few challenges in this area of study is:
+We were highly motivated to work on Ad click prediction dataset, although few challenges in this area of study are:
 
 1)	There is very less publicly available data set for ad click. 
 
@@ -48,9 +48,9 @@ Country: Country of consumer
 We have done preliminary EDA(mention below) and we are planning to do more insight as we progress.
 
 
-### Cleaning and Approaches
+### Cleaning and Approach
 
-Considering the 'Advertisement Topic Line', we decided to drop it. In any case, it if we need to extract any form of interesting data from it, we can use Natural Language Processing. 
+Considering the 'Advertisement Topic Line', we decided to drop it. In any case, if we need to extract any form of interesting data from it, we can use Natural Language Processing. 
 
 As to 'City' and the 'Nation', we can supplant them by dummy variables with numerical features, Nonetheless, along these lines we got such a large number of new highlights. 
 
