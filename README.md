@@ -22,7 +22,7 @@ We are highly motivated to work on Ad click prediction dataset, few challenges i
 
 1)	There is very less publicly available data set for ad click. 
 
-2)	New online ads that are coming up is not targeted to a particular set of users, using our prediction algorithm study companies will be able to target it to particular set of users.
+2)	New online ads that are coming up are not targeted to a particular set of users. Using our prediction algorithm companies will be able to target it well to a particular set of users.
 
 
 ### Data Set
@@ -126,7 +126,7 @@ Nonlinear relationships between features do not affect tree performance
 
 #### Why we used Naïve Bayes ? 
 
-Work well with small dataset compared to DT which need more data.
+Works well with small dataset compared to DT which need more data.
 Lesser overfitting.
 Smaller in size and faster in processing.
 
@@ -144,7 +144,7 @@ We conclude that Naive Bayes Algorithm gives us the maximum accuracy for determi
 
 #### Why Naive Bayes is better ? 
 
-A Naive Bayes classifier will converge quicker than discriminative models like logistic regression, so you need less training data. Since we have smaller dataset, that is the reason we have got higher accuracy for Naive Bayes.
+A Naive Bayes classifier will converge quicker than discriminative models like logistic regression, so you need less training data. Since we have smaller dataset, we have got higher accuracy for Naive Bayes.
 
 
 ### Conclusion 
